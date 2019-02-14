@@ -24,19 +24,28 @@
 
 .event {
     background-color: white;
-    padding:10px;
-}
-.number{
-    background-color: white;
-    padding:0 20px;
-}
-.event span{
-    background-color: white;
-    padding:0 20px;
-}
-.event .startDate{
-    background-color: white;
-    padding:0 20px;
-    border: 1px solid brown;
+    padding: 10px;
 }
 
+.number {
+    background-color: white;
+    padding: 0 20px;
+}
+
+.event span {
+    background-color: white;
+    padding: 0 20px;
+}
+
+.event .name {
+    background-color: white;
+    padding: 0 20px;
+    color: brown;
+    font-size: 20px;
+}
+
+.event .startDate {
+    background-color: white;
+    padding: 0 20px;
+    border: 1px solid brown;
+}
